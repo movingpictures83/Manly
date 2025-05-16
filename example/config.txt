@@ -1,0 +1,2 @@
+Prefix plugins/Manly/example/
+Plugin Manly inputfile parameters.txt outputfile none

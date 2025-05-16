@@ -1,0 +1,35 @@
+***********************************************************************************
+*                                                                                 *
+*  PPPPPPPPPPPP    L               U           U   M           M         A        *
+*  P           P   L               U           U   MM         MM        A A       *
+*  P           P   L               U           U   M M       M M       A   A      *
+*  P           P   L               U           U   M  M     M  M      A     A     *
+*  P           P   L               U           U   M   M   M   M     A       A    *
+*  PPPPPPPPPPPP    L               U           U   M    M M    M    A         A   *
+*  P               L               U           U   M     M     M   AAAAAAAAAAAAA  *
+*  P               L               U           U   M           M   A           A  *
+*  P               L               U           U   M           M   A           A  *
+*  P               LLLLLLLLLLLLL    UUUUUUUUUUU    M           M   A           A  *
+*                                                                                 *
+*            [Plu]gin-based [M]icrobiome [A]nalysis (formerly MiAMi)              *
+* (C) 2016, 2018 Bioinformatics Research Group, Florida International University  *
+*    Under MIT License From Open Source Initiative (OSI), All Rights Reserved.    *
+*                                                                                 *
+*    Any professionally published work using PluMA should cite the following:     *
+*                        T. Cickovski and G. Narasimhan.                          *
+*                Constructing Lightweight and Flexible Pipelines                  *
+*                 Using Plugin-Based Microbiome Analysis (PluMA)                  *
+*                     Bioinformatics 34(17):2881-2888, 2018                       *
+*                                                                                 *
+***********************************************************************************
+[PluMA] Running Plugin: Manly
+Loading required package: ggplot2
+Loading required package: lattice
+Warning in preProcess.default(training, method = "expoTrans") :
+  Expo. transform induced infinite values in several predictors and is ommitted: MW, ISIZ, ZM1V, ZM2V, SPI, W, QW, HyDp, w, WhetZ, Whetm, Whetv, Whete, Whetp, CSI, ECC, CENT, IDET, TIC2, TIC3, TIC4, TIC5, VRA1, VRA2, piPC04, piPC05, piPC07, piPC08, piPC09, piPC10, TPC, PCD, H3D, AGDD, DDI, QZZm, QZZv, QZZe, QZZp
+Created from 264 samples and 297 variables
+
+Pre-processing:
+  - exponential transformation (297)
+  - ignored (0)
+
