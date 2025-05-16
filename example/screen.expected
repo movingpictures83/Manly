@@ -23,10 +23,6 @@
 *                                                                                 *
 ***********************************************************************************
 [PluMA] Running Plugin: Manly
-Loading required package: ggplot2
-Loading required package: lattice
-Warning in preProcess.default(training, method = "expoTrans") :
-  Expo. transform induced infinite values in several predictors and is ommitted: MW, ISIZ, ZM1V, ZM2V, SPI, W, QW, HyDp, w, WhetZ, Whetm, Whetv, Whete, Whetp, CSI, ECC, CENT, IDET, TIC2, TIC3, TIC4, TIC5, VRA1, VRA2, piPC04, piPC05, piPC07, piPC08, piPC09, piPC10, TPC, PCD, H3D, AGDD, DDI, QZZm, QZZv, QZZe, QZZp
 Created from 264 samples and 297 variables
 
 Pre-processing:
